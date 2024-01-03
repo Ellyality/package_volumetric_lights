@@ -1,6 +1,14 @@
 # Volumetric Lights for Unity 5
 [![IMAGE ALT TEXT HERE](https://bqu2ya.dm1.livefilestore.com/y4mSxIn4D7Zx9td_2NWn3yZu8UxWeqJKN4qdciZ0fCqO9ox290xR837Moux6HnPpWPkF8mi7oY26ZNF7n0eJfbPMNoBTtrMraKnghJ4XF13tCK2bBPybZVudlL1UU_gBkFyY7lt30UYbVJ-EZVaV2Z8C1DglijmBYelQfJyplssFe7oSklBvneGtDlhwDv1dougv2ZpHmipfzYRuR6fLeawlQ?width=1167&height=653&cropmode=none)](https://www.youtube.com/watch?v=JPxLCYXB-8A) [![IMAGE ALT TEXT HERE](https://agu0ya-dm2305.files.1drv.com/y4mnqQ4pzhZdF4k3Z7Fv_QApimv9POLR1ShQPoNg8wtUf7TzqFdWLY6Y8bxtyJhGQNRe8NLvy1GGoZsorNssr2h6fTsAfyi-F2LOIA4wzNY_7cS-1iEjVHyOCyOCTA0_8na3cmWvQ34gHBfyXOxxE6AZIjaVwCemZP7kSwaUNoNDyCPsCkx8vsdmxuwmuVcrH1rYblmFCaVH5za_EsrqM-qJA?width=1167&height=650&cropmode=none)](https://www.youtube.com/watch?v=ElaPJyzR504)
 
+This version is based on: https://github.com/SlightlyMad/VolumetricLights/
+Should work from Unity 5.5 up to 2023
+- Grouped everything into one folder and one sampled scene
+- Added custom noise and dithering (a sample blue noise texture is provided)
+- Made it work seamlessly with NGSS
+- Added ZReverse check instead of platforms checks
+- Added shadows fadeDistance
+- 
 Open source (BSD) extension for built-in Unity lights. It uses ray marching in light's volume to compute volumetric fog. This technique is similar to the one used in Killzone ([GPU Pro 5](http://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1482208636): Volumetric Light Effects in Killzone Shadow Fall by Nathan Vos)
 
 Corresponding thread in Unity Forum can be found [here](http://forum.unity3d.com/threads/true-volumetric-lights-open-source-soon.390818/).
