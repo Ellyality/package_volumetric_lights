@@ -8,7 +8,7 @@ Should work from Unity 5.5 up to 2023
 - Made it work seamlessly with NGSS
 - Added ZReverse check instead of platforms checks
 - Added shadows fadeDistance
-- 
+  
 Open source (BSD) extension for built-in Unity lights. It uses ray marching in light's volume to compute volumetric fog. This technique is similar to the one used in Killzone ([GPU Pro 5](http://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1482208636): Volumetric Light Effects in Killzone Shadow Fall by Nathan Vos)
 
 Corresponding thread in Unity Forum can be found [here](http://forum.unity3d.com/threads/true-volumetric-lights-open-source-soon.390818/).
