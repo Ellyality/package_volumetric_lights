@@ -1,0 +1,21 @@
+{
+	"name": "com.ellyality.visual.volumetric.lighting",
+	"displayName":"Volumetric Lights",
+	"version": "1.0.8",
+    "author": "Elly Visual",
+    "unity": "2019.2",
+    "keywords": ["light", "voxel", "volumetric", "shader"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Provide basic udp connection",
+    "documentationUrl": "https://github.com/Ellyality/package_volumetric_lights/blob/main/README.md",
+    "samples":[
+        {
+            "displayName": "Demo Scene",
+            "description": "UDP Demo",
+            "path": "~Demo"
+        }
+    ],
+    "dependencies": {
+    }
+}
