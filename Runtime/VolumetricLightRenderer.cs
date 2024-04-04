@@ -33,6 +33,7 @@ using UnityEngine.Rendering;
 using System;
 
 [RequireComponent(typeof(Camera))]
+[AddComponentMenu("Ellyality/Visual/Volumetric Light/Light Renderer")]
 public class VolumetricLightRenderer : MonoBehaviour
 {
     public enum VolumtericResolution

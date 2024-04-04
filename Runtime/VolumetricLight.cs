@@ -32,6 +32,7 @@ using System.Collections;
 using UnityEngine.Rendering;
 using System;
 
+[AddComponentMenu("Ellyality/Visual/Volumetric Light/Light")]
 [RequireComponent(typeof(Light))]
 public class VolumetricLight : MonoBehaviour 
 {

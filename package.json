@@ -1,7 +1,7 @@
 {
 	"name": "com.ellyality.visual.volumetric.lighting",
 	"displayName":"Volumetric Lights",
-	"version": "1.0.8",
+	"version": "1.0.9",
     "author": "Elly Visual",
     "unity": "2019.2",
     "keywords": ["light", "voxel", "volumetric", "shader"],
